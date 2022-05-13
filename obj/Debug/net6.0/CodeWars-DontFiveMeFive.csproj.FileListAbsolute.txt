@@ -1,0 +1,15 @@
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\bin\Debug\net6.0\CodeWars-DontFiveMeFive.exe
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\bin\Debug\net6.0\CodeWars-DontFiveMeFive.deps.json
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\bin\Debug\net6.0\CodeWars-DontFiveMeFive.runtimeconfig.json
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\bin\Debug\net6.0\CodeWars-DontFiveMeFive.dll
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\bin\Debug\net6.0\CodeWars-DontFiveMeFive.pdb
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\CodeWars-DontFiveMeFive.csproj.AssemblyReference.cache
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\CodeWars-DontFiveMeFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\CodeWars-DontFiveMeFive.AssemblyInfoInputs.cache
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\CodeWars-DontFiveMeFive.AssemblyInfo.cs
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\CodeWars-DontFiveMeFive.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\CodeWars-DontFiveMeFive.dll
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\refint\CodeWars-DontFiveMeFive.dll
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\CodeWars-DontFiveMeFive.pdb
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\CodeWars-DontFiveMeFive.genruntimeconfig.cache
+C:\Users\Vahid\RiderProjects\CodeWars-DontFiveMeFive\CodeWars-DontFiveMeFive\obj\Debug\net6.0\ref\CodeWars-DontFiveMeFive.dll
